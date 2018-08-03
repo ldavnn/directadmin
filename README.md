@@ -1,4 +1,4 @@
-# directadmin
+# HƯỚNG DẪN CÀI ĐĂT
 INSTALL DIRECTADMIN SETTINGS ALL VERSIONS
 
 Bước 1: 
